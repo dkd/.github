@@ -1,4 +1,4 @@
-# dkd
+# dkd Internet Service GmbH
 
 Willkommen auf dem offiziellen GitHub-Profil von **dkd**.
 
