@@ -52,3 +52,66 @@ Darüber hinaus entwickeln und betreiben wir Hosted Solr (www.hosted-solr.com), 
 Weitere Informationen:
 
 🌐 [https://www.dkd.de/](https://www.dkd.de/)
+
+
+
+
+  
+  
+=== english version below ===
+  
+  
+
+
+Welcome to the official GitHub profile of **dkd Internet Service GmbH**.
+
+dkd develops digital solutions that drive long-term business success. We combine strategy, design, and software engineering to deliver high-performance web platforms, custom applications, and future-proof digital products. On our GitHub profile, we share selected open-source projects, reusable components, and tools from our daily development work.
+
+_What We Do_
+
+We support the entire lifecycle of digital solutions – from conception to operations:
+
+* Web Development
+* Custom Software Development
+* CMS Solutions (e.g., TYPO3, Storyblok)
+* E-Commerce Solutions (e.g., Shopify, Shopware)
+* API and System Integrations
+* Frontend and Backend Development
+* Cloud and Infrastructure Solutions
+* UX and Digital Platforms
+
+_Our Philosophy_
+
+We believe that successful software is built through close collaboration, clean architecture, and sustainable development processes.
+
+Our teams work with modern technologies, agile methodologies, and a clear focus on maintainability, security, and performance.
+
+_Open Source_
+
+Through this GitHub organization, we publish selected open-source projects, reusable components, and examples from our daily development work.
+
+We share knowledge, foster collaboration within the developer community, and contribute wherever open source creates genuine value.
+
+_Technologies_
+
+Depending on the project, we work with the following technologies, among others:
+
+* PHP
+* Vue.js
+* JavaScript
+* React
+* Symfony
+* Docker
+* CI/CD
+
+_Open Source & Search Expertise_
+
+A particular focus of our development work lies in high-performance search solutions powered by Apache Solr (www.typo3-solr.com).
+
+As long-standing developers and maintainers of the TYPO3-Solr integration, we actively contribute to the advancement of search technology within the TYPO3 ecosystem. Our solutions enable performant, scalable, and intelligent search capabilities for demanding web platforms.
+
+In addition, we develop and operate Hosted Solr (www.hosted-solr.com), our own managed hosting solution for Apache Solr. Hosted Solr provides businesses and agencies with a reliable, scalable, and professionally managed search infrastructure for TYPO3 and other applications.
+
+Further information:
+
+🌐 [https://www.dkd.de/](https://www.dkd.de/)
