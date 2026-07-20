@@ -1,3 +1,5 @@
+![dkd Logo](https://github.com/dkd/.github/blob/ee39368cc34357f94fb6daba239bde940c64fccf/profile/headerbild_github.png "dkd Logo")
+
 Willkommen auf dem offiziellen GitHub-Profil der **dkd Internet Service GmbH**.
 
 dkd entwickelt digitale Lösungen, die Unternehmen langfristig voranbringen. Wir verbinden Strategie, Design und Softwareentwicklung, um leistungsfähige Webplattformen, individuelle Anwendungen und zukunftssichere digitale Produkte zu realisieren. Auf unserem GitHub-Profil teilen wir ausgewählte Open-Source-Projekte, wiederverwendbare Komponenten und Werkzeuge aus unserer täglichen Entwicklungsarbeit.
